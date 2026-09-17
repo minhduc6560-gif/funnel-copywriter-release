@@ -1,5 +1,5 @@
 ---
-name: sales-page-copywriting
+name: ldg-sale-page-copywriting
 description: Write direct-response sales pages from approved facts.
 version: 1.0.0
 author: Minh Duc (minhduc6560-gif), Hermes Agent
@@ -11,7 +11,7 @@ platforms:
 metadata:
   hermes:
     tags:
-    - sales-page-copywriting
+    - ldg-sale-page-copywriting
     related_skills: []
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: webinar-funnel-copywriting
+name: ldg-webinar-funnel-copywriting
 description: Write complete free or paid webinar funnel copy.
 version: 0.2.0
 author: Minh Duc (minhduc6560-gif), Hermes Agent
@@ -38,8 +38,8 @@ Use for:
 
 Do not use for:
 
-- A non-event lead magnet - use `lead-funnel-copywriting`.
-- A direct sales page unrelated to webinar registration - use `sales-page-copywriting`.
+- A non-event lead magnet - use `ldg-lead-funnel-copywriting`.
+- A direct sales page unrelated to webinar registration - use `ldg-sale-page-copywriting`.
 - Webinar platform setup, calendar integration, CRM automation, or tracking.
 - Banner concepts, slide design, or visual prompts - hand these off to a designer or a visual-design skill.
 

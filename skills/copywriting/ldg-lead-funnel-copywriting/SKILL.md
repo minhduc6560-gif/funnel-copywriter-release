@@ -1,5 +1,5 @@
 ---
-name: lead-funnel-copywriting
+name: ldg-lead-funnel-copywriting
 description: Write three complete lead-funnel landing pages.
 version: 0.2.0
 author: Minh Duc (minhduc6560-gif), Hermes Agent
@@ -37,8 +37,8 @@ Use for:
 
 Do not use for:
 
-- Webinar registration and event follow-up - use `webinar-funnel-copywriting`.
-- A direct sales page whose main CTA is payment or purchase - use `sales-page-copywriting`.
+- Webinar registration and event follow-up - use `ldg-webinar-funnel-copywriting`.
+- A direct sales page whose main CTA is payment or purchase - use `ldg-sale-page-copywriting`.
 - Nurture sequences when the user has not requested them or supplied an approved nurture objective.
 - Banner concepts or visual prompts - hand these off to a designer or a visual-design skill.
 - CRM implementation or form integration.

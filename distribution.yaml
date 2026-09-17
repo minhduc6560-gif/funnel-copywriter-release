@@ -1,5 +1,5 @@
 name: copywriting-funnel
-version: 1.0.1
+version: 1.15.0
 description: "Writes reusable copy for lead, webinar, and sales funnels."
 hermes_requires: ">=0.13.0"
 author: "Minh Duc (minhduc6560-gif), Hermes Agent"

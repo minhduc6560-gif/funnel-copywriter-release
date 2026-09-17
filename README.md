@@ -4,9 +4,9 @@ Writes reusable copy for lead, webinar, and sales funnels.
 
 ## Included skills
 
-- `lead-funnel-copywriting`
-- `webinar-funnel-copywriting`
-- `sales-page-copywriting`
+- `ldg-lead-funnel-copywriting`
+- `ldg-webinar-funnel-copywriting`
+- `ldg-sale-page-copywriting`
 - `document-source-ingestion`
 
 ## Install
