@@ -1,0 +1,9 @@
+name: funnel-copywriter-release
+version: 1.0.0
+description: "Writes reusable copy for lead, webinar, and sales funnels."
+hermes_requires: ">=0.13.0"
+author: "Minh Duc (minhduc6560-gif), Hermes Agent"
+license: "MIT"
+distribution_owned:
+  - SOUL.md
+  - skills/
